@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{ED401AD9-EBD4-44E8-8999-E5F8416786E1}</ProjectGuid>
-    <RootNamespace>BinaryTree</RootNamespace>
+    <ProjectGuid>{432B9442-8A72-4EAA-8F66-6CFB765B27F9}</ProjectGuid>
+    <RootNamespace>LinkedList</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
