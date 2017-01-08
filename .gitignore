@@ -6,6 +6,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.vcxproj
+*.vcxproj.filters
+*.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -251,7 +254,4 @@ paket-files/
 .idea/
 *.sln.iml
 
-# Additional
-.vcxproj
-.vcxproj.filters
-.sln
+
